@@ -4,7 +4,7 @@
 
 ## 教學 HTML 簡報
 
-👉 **[線上瀏覽簡報](https://james880603-svg.github.io/wiki-llm-stock1/)**（原始檔：[`docs/index.html`](docs/index.html)）
+👉 **[線上瀏覽簡報](https://james880603-svg.github.io/wiki-llm-stock/)**（原始檔：[`docs/index.html`](docs/index.html)）
 
 簡報內容只取自本 wiki，每頁都標註了引用的 wiki 頁面。
 
